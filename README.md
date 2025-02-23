@@ -54,7 +54,7 @@ nano accounts.json
 ```bash
 nano proxy.txt
 ```
-  -Make sure `proxy.txt` contains data that matches the format expected by the script. Here are examples of file formats:
+  - Make sure `proxy.txt` contains data that matches the format expected by the script. Here are examples of file formats:
   ```bash
     ip:port # Default Protcol HTTP.
     protocol://ip:port
